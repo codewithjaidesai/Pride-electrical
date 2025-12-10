@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://pride-electrical.vercel.app/sitemap.xml
+
+# Disallow admin or private areas (none for now)
+# Disallow: /admin/
