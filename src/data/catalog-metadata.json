@@ -1,0 +1,152 @@
+{
+  "catalog_info": {
+    "brand": "Dowell's",
+    "parent_company": "Polycab India Ltd",
+    "catalog_version": "National Price List 15 November 2025",
+    "effective_date": "2025-11-15",
+    "currency": "INR",
+    "price_type": "List Price",
+    "note": "Discounts handled separately by Pride Electrical"
+  },
+  "categories": [
+    {
+      "id": "sector-lugs-copper",
+      "name": "Copper Sector Lugs",
+      "description": "For 2C, 3C, 3.5C & 4C sector shaped conductors",
+      "subcategories": ["long-barrel", "short-barrel"]
+    },
+    {
+      "id": "sector-lugs-aluminium",
+      "name": "Aluminium Sector Lugs",
+      "description": "For 2C, 3C, 3.5C & 4C sector shaped conductors",
+      "subcategories": ["long-barrel", "short-barrel"]
+    },
+    {
+      "id": "sector-connectors",
+      "name": "Sector Connectors",
+      "description": "Copper and Aluminium connectors for sector shaped conductors",
+      "subcategories": ["copper", "aluminium"]
+    },
+    {
+      "id": "copper-tube-terminals",
+      "name": "Copper Tube Terminals",
+      "description": "Medium duty, heavy duty, DIN type, ICF series terminals",
+      "subcategories": ["medium-duty", "heavy-duty-long-barrel", "heavy-duty-bs4579", "extended-palm", "din-type", "icf-series"]
+    },
+    {
+      "id": "copper-tubular-long-barrel",
+      "name": "Copper Tubular Terminals Long Barrel",
+      "description": "Long barrel copper tubular terminals"
+    },
+    {
+      "id": "copper-reducer-terminals",
+      "name": "Copper Reducer Terminals",
+      "description": "Reducer terminals for size transitions"
+    },
+    {
+      "id": "copper-connectors",
+      "name": "Copper In-Line Connectors",
+      "description": "Heavy duty and light duty in-line connectors",
+      "subcategories": ["heavy-duty", "light-duty", "insulated"]
+    },
+    {
+      "id": "aluminium-tube-terminals",
+      "name": "Aluminium Tube Terminals",
+      "description": "Standard and long barrel aluminium terminals",
+      "subcategories": ["standard", "long-barrel", "xlpe", "two-holes"]
+    },
+    {
+      "id": "aluminium-reducer-terminals",
+      "name": "Aluminium Reducer Terminals",
+      "description": "Reducer terminals for size transitions"
+    },
+    {
+      "id": "aluminium-connectors",
+      "name": "Aluminium In-Line Connectors",
+      "description": "Standard and XLPE in-line connectors",
+      "subcategories": ["standard", "xlpe"]
+    },
+    {
+      "id": "bimetallic",
+      "name": "Bi-Metallic Series",
+      "description": "Friction welded Cu-Al connectors and terminals",
+      "subcategories": ["connectors", "terminals", "aluminium-alloy"]
+    },
+    {
+      "id": "ring-terminals",
+      "name": "Ring Terminals",
+      "description": "Non-insulated, insulated, and double grip ring terminals",
+      "subcategories": ["non-insulated", "insulated", "double-grip"]
+    },
+    {
+      "id": "pin-terminals",
+      "name": "Pin Terminals",
+      "description": "Non-insulated, insulated, and double grip pin terminals",
+      "subcategories": ["non-insulated", "insulated", "double-grip"]
+    },
+    {
+      "id": "fork-terminals",
+      "name": "Fork Terminals",
+      "description": "Non-insulated, insulated, and double grip fork terminals",
+      "subcategories": ["non-insulated", "insulated", "double-grip"]
+    },
+    {
+      "id": "end-sealing-ferrules",
+      "name": "End Sealing Ferrules",
+      "description": "Non-insulated and insulated ferrules",
+      "subcategories": ["non-insulated", "insulated"]
+    },
+    {
+      "id": "snap-on-terminals",
+      "name": "Snap On Terminals",
+      "description": "Quick connect snap on terminals"
+    },
+    {
+      "id": "twin-type-lugs",
+      "name": "Copper Twin Type Lugs",
+      "description": "Twin wire ferrules with color coding"
+    },
+    {
+      "id": "cable-glands-brass",
+      "name": "Brass Cable Glands",
+      "description": "Double compression armoured and unarmoured glands",
+      "subcategories": ["weather-proof", "flame-proof", "medium-duty", "unarmoured", "single-compression", "sibg", "pg-glands", "flange-type"]
+    },
+    {
+      "id": "cable-glands-ss316",
+      "name": "SS316 Cable Glands",
+      "description": "Stainless steel 316 cable glands",
+      "subcategories": ["npt-threading", "metric-threading", "et-threading"]
+    },
+    {
+      "id": "cable-glands-ss304",
+      "name": "SS304 Cable Glands",
+      "description": "Stainless steel 304 cable glands",
+      "subcategories": ["npt-threading", "metric-threading", "et-threading"]
+    },
+    {
+      "id": "cable-glands-nylon",
+      "name": "Nylon PG Glands",
+      "description": "Polyamide cable glands"
+    },
+    {
+      "id": "gland-accessories",
+      "name": "Gland Accessories",
+      "description": "Earth tags and LSF/LSZH shrouds"
+    },
+    {
+      "id": "tools",
+      "name": "Tools & Accessories",
+      "description": "Hand operated and hydraulic crimping tools",
+      "subcategories": ["hand-operated", "hydraulic", "accessories"]
+    }
+  ],
+  "size_formats": {
+    "normalized": "sq mm",
+    "variations": ["sqmm", "sq.mm", "mm²", "mm2", "square mm", "SQ-MM", "SQ - MM"]
+  },
+  "hole_size_standards": {
+    "185_aluminium": "12mm",
+    "70_copper_medium_duty": "10mm"
+  }
+}
