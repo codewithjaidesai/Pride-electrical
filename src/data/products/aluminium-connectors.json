@@ -1,0 +1,47 @@
+{
+  "category": "Aluminium In-Line Connectors",
+  "category_id": "aluminium-connectors",
+  "description": "Aluminium in-line connectors for joining aluminium conductors.",
+  "material": "Aluminium",
+  "standard": {
+    "series": "ALC",
+    "description": "Standard aluminium in-line connectors",
+    "products": [
+      {"size_sq_mm": 10, "catalog_no": "ALC-01", "price_inr": 5.50, "std_pkg": 1600},
+      {"size_sq_mm": 16, "catalog_no": "ALC-02", "price_inr": 7.70, "std_pkg": 800},
+      {"size_sq_mm": 25, "catalog_no": "ALC-03", "price_inr": 11.00, "std_pkg": 400},
+      {"size_sq_mm": 35, "catalog_no": "ALC-04", "price_inr": 14.30, "std_pkg": 400},
+      {"size_sq_mm": 50, "catalog_no": "ALC-05", "price_inr": 22.00, "std_pkg": 200},
+      {"size_sq_mm": 70, "catalog_no": "ALC-06", "price_inr": 30.80, "std_pkg": 200},
+      {"size_sq_mm": 95, "catalog_no": "ALC-07", "price_inr": 44.00, "std_pkg": 100},
+      {"size_sq_mm": 120, "catalog_no": "ALC-08", "price_inr": 60.50, "std_pkg": 100},
+      {"size_sq_mm": 150, "catalog_no": "ALC-09", "price_inr": 77.00, "std_pkg": 80},
+      {"size_sq_mm": 185, "catalog_no": "ALC-10", "price_inr": 104.50, "std_pkg": 60},
+      {"size_sq_mm": 240, "catalog_no": "ALC-11", "price_inr": 143.00, "std_pkg": 50},
+      {"size_sq_mm": 300, "catalog_no": "ALC-12", "price_inr": 192.50, "std_pkg": 40},
+      {"size_sq_mm": 400, "catalog_no": "ALC-13", "price_inr": 264.00, "std_pkg": 30},
+      {"size_sq_mm": 500, "catalog_no": "ALC-14", "price_inr": 385.00, "std_pkg": 20},
+      {"size_sq_mm": 630, "catalog_no": "ALC-15", "price_inr": 522.50, "std_pkg": 15}
+    ]
+  },
+  "xlpe": {
+    "series": "ALCX",
+    "description": "Aluminium in-line connectors for XLPE cables",
+    "products": [
+      {"size_sq_mm": 16, "catalog_no": "ALCX-02", "price_inr": 9.90, "std_pkg": 800},
+      {"size_sq_mm": 25, "catalog_no": "ALCX-03", "price_inr": 14.30, "std_pkg": 400},
+      {"size_sq_mm": 35, "catalog_no": "ALCX-04", "price_inr": 19.80, "std_pkg": 400},
+      {"size_sq_mm": 50, "catalog_no": "ALCX-05", "price_inr": 30.80, "std_pkg": 200},
+      {"size_sq_mm": 70, "catalog_no": "ALCX-06", "price_inr": 44.00, "std_pkg": 200},
+      {"size_sq_mm": 95, "catalog_no": "ALCX-07", "price_inr": 60.50, "std_pkg": 100},
+      {"size_sq_mm": 120, "catalog_no": "ALCX-08", "price_inr": 82.50, "std_pkg": 100},
+      {"size_sq_mm": 150, "catalog_no": "ALCX-09", "price_inr": 104.50, "std_pkg": 80},
+      {"size_sq_mm": 185, "catalog_no": "ALCX-10", "price_inr": 143.00, "std_pkg": 60},
+      {"size_sq_mm": 240, "catalog_no": "ALCX-11", "price_inr": 192.50, "std_pkg": 50},
+      {"size_sq_mm": 300, "catalog_no": "ALCX-12", "price_inr": 264.00, "std_pkg": 40},
+      {"size_sq_mm": 400, "catalog_no": "ALCX-13", "price_inr": 357.50, "std_pkg": 30},
+      {"size_sq_mm": 500, "catalog_no": "ALCX-14", "price_inr": 522.50, "std_pkg": 20},
+      {"size_sq_mm": 630, "catalog_no": "ALCX-15", "price_inr": 715.00, "std_pkg": 15}
+    ]
+  }
+}

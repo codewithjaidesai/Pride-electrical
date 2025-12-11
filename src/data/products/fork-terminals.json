@@ -1,0 +1,81 @@
+{
+  "category": "Fork Terminals",
+  "category_id": "fork-terminals",
+  "description": "Copper fork (spade) terminals for wire termination. Available in non-insulated, insulated, and double grip (pre-insulated) variants.",
+  "material": "Copper",
+  "non_insulated": {
+    "series": "CF",
+    "products": [
+      {"size_sq_mm": 0.75, "hole_size_mm": 3.2, "catalog_no": "CF-66", "price_inr": 2.95, "std_pkg": 8000},
+      {"size_sq_mm": 0.75, "hole_size_mm": 4.3, "catalog_no": "CF-67", "price_inr": 2.95, "std_pkg": 8000},
+      {"size_sq_mm": 1, "hole_size_mm": 3.2, "catalog_no": "CF-68", "price_inr": 2.95, "std_pkg": 8000},
+      {"size_sq_mm": 1, "hole_size_mm": 4.3, "catalog_no": "CF-69", "price_inr": 2.95, "std_pkg": 8000},
+      {"size_sq_mm": 1.5, "hole_size_mm": 3.2, "catalog_no": "CF-2", "price_inr": 2.95, "std_pkg": 16000},
+      {"size_sq_mm": 1.5, "hole_size_mm": 4.3, "catalog_no": "CF-1", "price_inr": 2.95, "std_pkg": 16000},
+      {"size_sq_mm": 1.5, "hole_size_mm": 5.3, "catalog_no": "CF-3", "price_inr": 2.95, "std_pkg": 8000},
+      {"size_sq_mm": 1.5, "hole_size_mm": 6.4, "catalog_no": "CF-4", "price_inr": 2.95, "std_pkg": 8000},
+      {"size_sq_mm": 2.5, "hole_size_mm": 3.2, "catalog_no": "CF-5", "price_inr": 2.95, "std_pkg": 16000},
+      {"size_sq_mm": 2.5, "hole_size_mm": 4.3, "catalog_no": "CF-6", "price_inr": 2.95, "std_pkg": 16000},
+      {"size_sq_mm": 2.5, "hole_size_mm": 5.3, "catalog_no": "CF-7", "price_inr": 2.95, "std_pkg": 8000},
+      {"size_sq_mm": 2.5, "hole_size_mm": 6.4, "catalog_no": "CF-8", "price_inr": 3.27, "std_pkg": 8000},
+      {"size_sq_mm": 4, "hole_size_mm": 4.3, "catalog_no": "CF-10", "price_inr": 4.53, "std_pkg": 16000},
+      {"size_sq_mm": 4, "hole_size_mm": 5.3, "catalog_no": "CF-11", "price_inr": 4.53, "std_pkg": 16000},
+      {"size_sq_mm": 4, "hole_size_mm": 6.4, "catalog_no": "CF-12", "price_inr": 4.84, "std_pkg": 8000},
+      {"size_sq_mm": 6, "hole_size_mm": 4.3, "catalog_no": "CF-14", "price_inr": 5.89, "std_pkg": 10000},
+      {"size_sq_mm": 6, "hole_size_mm": 5.3, "catalog_no": "CF-15", "price_inr": 5.89, "std_pkg": 10000},
+      {"size_sq_mm": 6, "hole_size_mm": 6.4, "catalog_no": "CF-16", "price_inr": 6.21, "std_pkg": 10000},
+      {"size_sq_mm": 10, "hole_size_mm": 5.3, "catalog_no": "CF-18", "price_inr": 8.42, "std_pkg": 6400},
+      {"size_sq_mm": 10, "hole_size_mm": 6.4, "catalog_no": "CF-19", "price_inr": 8.42, "std_pkg": 6400},
+      {"size_sq_mm": 10, "hole_size_mm": 8.4, "catalog_no": "CF-20", "price_inr": 8.74, "std_pkg": 6400}
+    ]
+  },
+  "insulated": {
+    "series": "CFI",
+    "products": [
+      {"size_sq_mm": 0.75, "hole_size_mm": 3.2, "catalog_no": "CFI-70", "price_inr": 3.26, "std_pkg": 8000},
+      {"size_sq_mm": 0.75, "hole_size_mm": 4.3, "catalog_no": "CFI-71", "price_inr": 3.26, "std_pkg": 8000},
+      {"size_sq_mm": 1, "hole_size_mm": 3.2, "catalog_no": "CFI-72", "price_inr": 3.26, "std_pkg": 4000},
+      {"size_sq_mm": 1, "hole_size_mm": 4.3, "catalog_no": "CFI-73", "price_inr": 3.26, "std_pkg": 4000},
+      {"size_sq_mm": 1.5, "hole_size_mm": 3.2, "catalog_no": "CFI-2", "price_inr": 3.26, "std_pkg": 10000},
+      {"size_sq_mm": 1.5, "hole_size_mm": 4.3, "catalog_no": "CFI-1", "price_inr": 3.26, "std_pkg": 10000},
+      {"size_sq_mm": 1.5, "hole_size_mm": 5.3, "catalog_no": "CFI-3", "price_inr": 3.58, "std_pkg": 4000},
+      {"size_sq_mm": 1.5, "hole_size_mm": 6.4, "catalog_no": "CFI-4", "price_inr": 3.58, "std_pkg": 4000},
+      {"size_sq_mm": 2.5, "hole_size_mm": 3.2, "catalog_no": "CFI-5", "price_inr": 3.90, "std_pkg": 10000},
+      {"size_sq_mm": 2.5, "hole_size_mm": 4.3, "catalog_no": "CFI-6", "price_inr": 3.90, "std_pkg": 10000},
+      {"size_sq_mm": 2.5, "hole_size_mm": 5.3, "catalog_no": "CFI-7", "price_inr": 4.21, "std_pkg": 4000},
+      {"size_sq_mm": 2.5, "hole_size_mm": 6.4, "catalog_no": "CFI-8", "price_inr": 4.21, "std_pkg": 4000},
+      {"size_sq_mm": 4, "hole_size_mm": 4.3, "catalog_no": "CFI-10", "price_inr": 5.57, "std_pkg": 4000},
+      {"size_sq_mm": 4, "hole_size_mm": 5.3, "catalog_no": "CFI-11", "price_inr": 5.57, "std_pkg": 4000},
+      {"size_sq_mm": 4, "hole_size_mm": 6.4, "catalog_no": "CFI-12", "price_inr": 5.89, "std_pkg": 4000},
+      {"size_sq_mm": 6, "hole_size_mm": 4.3, "catalog_no": "CFI-14", "price_inr": 6.84, "std_pkg": 4000},
+      {"size_sq_mm": 6, "hole_size_mm": 5.3, "catalog_no": "CFI-15", "price_inr": 6.84, "std_pkg": 4000},
+      {"size_sq_mm": 6, "hole_size_mm": 6.4, "catalog_no": "CFI-16", "price_inr": 7.16, "std_pkg": 4000}
+    ]
+  },
+  "double_grip_insulated": {
+    "series": "CFDI",
+    "description": "Double grip pre-insulated fork terminals",
+    "products": [
+      {"size_sq_mm": 0.5, "hole_size_mm": 3.2, "catalog_no": "CFDI-74", "price_inr": 3.26, "std_pkg": 8000},
+      {"size_sq_mm": 0.5, "hole_size_mm": 4.3, "catalog_no": "CFDI-75", "price_inr": 3.26, "std_pkg": 8000},
+      {"size_sq_mm": 0.75, "hole_size_mm": 3.2, "catalog_no": "CFDI-76", "price_inr": 3.26, "std_pkg": 8000},
+      {"size_sq_mm": 0.75, "hole_size_mm": 4.3, "catalog_no": "CFDI-77", "price_inr": 3.26, "std_pkg": 8000},
+      {"size_sq_mm": 1, "hole_size_mm": 3.2, "catalog_no": "CFDI-78", "price_inr": 3.26, "std_pkg": 8000},
+      {"size_sq_mm": 1, "hole_size_mm": 4.3, "catalog_no": "CFDI-79", "price_inr": 3.26, "std_pkg": 8000},
+      {"size_sq_mm": 1.5, "hole_size_mm": 3.2, "catalog_no": "CFDI-21", "price_inr": 3.90, "std_pkg": 4000},
+      {"size_sq_mm": 1.5, "hole_size_mm": 4.3, "catalog_no": "CFDI-22", "price_inr": 3.90, "std_pkg": 4000},
+      {"size_sq_mm": 1.5, "hole_size_mm": 5.3, "catalog_no": "CFDI-23", "price_inr": 4.21, "std_pkg": 4000},
+      {"size_sq_mm": 1.5, "hole_size_mm": 6.4, "catalog_no": "CFDI-24", "price_inr": 4.21, "std_pkg": 4000},
+      {"size_sq_mm": 2.5, "hole_size_mm": 3.2, "catalog_no": "CFDI-25", "price_inr": 4.53, "std_pkg": 4000},
+      {"size_sq_mm": 2.5, "hole_size_mm": 4.3, "catalog_no": "CFDI-26", "price_inr": 4.53, "std_pkg": 4000},
+      {"size_sq_mm": 2.5, "hole_size_mm": 5.3, "catalog_no": "CFDI-27", "price_inr": 4.84, "std_pkg": 4000},
+      {"size_sq_mm": 2.5, "hole_size_mm": 6.4, "catalog_no": "CFDI-28", "price_inr": 4.84, "std_pkg": 4000},
+      {"size_sq_mm": 4, "hole_size_mm": 4.3, "catalog_no": "CFDI-29", "price_inr": 6.21, "std_pkg": 4000},
+      {"size_sq_mm": 4, "hole_size_mm": 5.3, "catalog_no": "CFDI-30", "price_inr": 6.21, "std_pkg": 4000},
+      {"size_sq_mm": 4, "hole_size_mm": 6.4, "catalog_no": "CFDI-31", "price_inr": 6.53, "std_pkg": 4000},
+      {"size_sq_mm": 6, "hole_size_mm": 4.3, "catalog_no": "CFDI-32", "price_inr": 7.48, "std_pkg": 4000},
+      {"size_sq_mm": 6, "hole_size_mm": 5.3, "catalog_no": "CFDI-33", "price_inr": 7.48, "std_pkg": 4000},
+      {"size_sq_mm": 6, "hole_size_mm": 6.4, "catalog_no": "CFDI-34", "price_inr": 7.79, "std_pkg": 4000}
+    ]
+  }
+}

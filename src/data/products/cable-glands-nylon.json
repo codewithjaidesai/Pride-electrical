@@ -1,0 +1,52 @@
+{
+  "category": "Nylon PG Cable Glands",
+  "category_id": "cable-glands-nylon",
+  "description": "Polyamide (Nylon) cable glands with PG threading. IP68 rated, suitable for indoor and outdoor applications.",
+  "material": "Polyamide (Nylon)",
+  "color": "Black/Grey",
+  "ip_rating": "IP68",
+  "products": [
+    {"suitable_od_mm": "3.0-6.5", "thread": "PG7", "catalog_no": "NPG-07", "price_inr": 16.50, "box_pkg": 500},
+    {"suitable_od_mm": "4.0-8.0", "thread": "PG9", "catalog_no": "NPG-09", "price_inr": 18.70, "box_pkg": 500},
+    {"suitable_od_mm": "5.0-10.0", "thread": "PG11", "catalog_no": "NPG-11", "price_inr": 22.00, "box_pkg": 500},
+    {"suitable_od_mm": "6.0-12.0", "thread": "PG13.5", "catalog_no": "NPG-135", "price_inr": 27.50, "box_pkg": 250},
+    {"suitable_od_mm": "10.0-14.0", "thread": "PG16", "catalog_no": "NPG-16", "price_inr": 33.00, "box_pkg": 250},
+    {"suitable_od_mm": "12.0-18.0", "thread": "PG21", "catalog_no": "NPG-21", "price_inr": 44.00, "box_pkg": 200},
+    {"suitable_od_mm": "15.0-22.0", "thread": "PG25", "catalog_no": "NPG-25", "price_inr": 66.00, "box_pkg": 100},
+    {"suitable_od_mm": "18.0-25.0", "thread": "PG29", "catalog_no": "NPG-29", "price_inr": 82.50, "box_pkg": 100},
+    {"suitable_od_mm": "22.0-32.0", "thread": "PG36", "catalog_no": "NPG-36", "price_inr": 121.00, "box_pkg": 50},
+    {"suitable_od_mm": "28.0-38.0", "thread": "PG42", "catalog_no": "NPG-42", "price_inr": 176.00, "box_pkg": 50},
+    {"suitable_od_mm": "34.0-44.0", "thread": "PG48", "catalog_no": "NPG-48", "price_inr": 220.00, "box_pkg": 25},
+    {"suitable_od_mm": "41.0-54.0", "thread": "PG63", "catalog_no": "NPG-63", "price_inr": 385.00, "box_pkg": 20}
+  ],
+  "accessories": {
+    "lock_nuts": [
+      {"thread": "PG7", "catalog_no": "NLN-07", "price_inr": 5.50, "box_pkg": 1000},
+      {"thread": "PG9", "catalog_no": "NLN-09", "price_inr": 6.60, "box_pkg": 1000},
+      {"thread": "PG11", "catalog_no": "NLN-11", "price_inr": 7.70, "box_pkg": 1000},
+      {"thread": "PG13.5", "catalog_no": "NLN-135", "price_inr": 8.80, "box_pkg": 500},
+      {"thread": "PG16", "catalog_no": "NLN-16", "price_inr": 11.00, "box_pkg": 500},
+      {"thread": "PG21", "catalog_no": "NLN-21", "price_inr": 14.30, "box_pkg": 250},
+      {"thread": "PG25", "catalog_no": "NLN-25", "price_inr": 22.00, "box_pkg": 200},
+      {"thread": "PG29", "catalog_no": "NLN-29", "price_inr": 27.50, "box_pkg": 200},
+      {"thread": "PG36", "catalog_no": "NLN-36", "price_inr": 38.50, "box_pkg": 100},
+      {"thread": "PG42", "catalog_no": "NLN-42", "price_inr": 55.00, "box_pkg": 100},
+      {"thread": "PG48", "catalog_no": "NLN-48", "price_inr": 71.50, "box_pkg": 50},
+      {"thread": "PG63", "catalog_no": "NLN-63", "price_inr": 110.00, "box_pkg": 50}
+    ],
+    "blanking_plugs": [
+      {"thread": "PG7", "catalog_no": "NBP-07", "price_inr": 8.80, "box_pkg": 500},
+      {"thread": "PG9", "catalog_no": "NBP-09", "price_inr": 9.90, "box_pkg": 500},
+      {"thread": "PG11", "catalog_no": "NBP-11", "price_inr": 11.00, "box_pkg": 500},
+      {"thread": "PG13.5", "catalog_no": "NBP-135", "price_inr": 13.20, "box_pkg": 250},
+      {"thread": "PG16", "catalog_no": "NBP-16", "price_inr": 16.50, "box_pkg": 250},
+      {"thread": "PG21", "catalog_no": "NBP-21", "price_inr": 22.00, "box_pkg": 200},
+      {"thread": "PG25", "catalog_no": "NBP-25", "price_inr": 33.00, "box_pkg": 100},
+      {"thread": "PG29", "catalog_no": "NBP-29", "price_inr": 44.00, "box_pkg": 100},
+      {"thread": "PG36", "catalog_no": "NBP-36", "price_inr": 60.50, "box_pkg": 50},
+      {"thread": "PG42", "catalog_no": "NBP-42", "price_inr": 88.00, "box_pkg": 50},
+      {"thread": "PG48", "catalog_no": "NBP-48", "price_inr": 110.00, "box_pkg": 25},
+      {"thread": "PG63", "catalog_no": "NBP-63", "price_inr": 176.00, "box_pkg": 20}
+    ]
+  }
+}

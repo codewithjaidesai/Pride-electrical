@@ -1,0 +1,52 @@
+{
+  "category": "Pin Terminals",
+  "category_id": "pin-terminals",
+  "description": "Copper pin terminals for wire termination. Available in non-insulated, insulated, and double grip (pre-insulated) variants.",
+  "material": "Copper",
+  "non_insulated": {
+    "series": "CP",
+    "products": [
+      {"size_sq_mm": 0.75, "catalog_no": "CP-59", "price_inr": 2.95, "std_pkg": 8000},
+      {"size_sq_mm": 1, "catalog_no": "CP-44", "price_inr": 2.95, "std_pkg": 8000},
+      {"size_sq_mm": 1.5, "catalog_no": "CP-9", "price_inr": 2.95, "std_pkg": 16000},
+      {"size_sq_mm": 1.5, "catalog_no": "CP-35", "price_inr": 3.27, "std_pkg": 8000},
+      {"size_sq_mm": 2.5, "catalog_no": "CP-1", "price_inr": 2.95, "std_pkg": 16000},
+      {"size_sq_mm": 2.5, "catalog_no": "CP-2", "price_inr": 2.95, "std_pkg": 8000},
+      {"size_sq_mm": 4, "catalog_no": "CP-3", "price_inr": 5.57, "std_pkg": 16000},
+      {"size_sq_mm": 6, "catalog_no": "CP-5", "price_inr": 5.57, "std_pkg": 10000},
+      {"size_sq_mm": 10, "catalog_no": "CP-7", "price_inr": 8.72, "std_pkg": 6400},
+      {"size_sq_mm": 16, "catalog_no": "CP-8", "price_inr": 17.22, "std_pkg": 3200},
+      {"size_sq_mm": 25, "catalog_no": "CP-86", "price_inr": 32.13, "std_pkg": 1600},
+      {"size_sq_mm": 35, "catalog_no": "CP-87", "price_inr": 42.63, "std_pkg": 800},
+      {"size_sq_mm": 50, "catalog_no": "CP-88", "price_inr": 64.67, "std_pkg": 400},
+      {"size_sq_mm": 70, "catalog_no": "CP-89", "price_inr": 87.57, "std_pkg": 200},
+      {"size_sq_mm": 95, "catalog_no": "CP-90", "price_inr": 114.44, "std_pkg": 200}
+    ]
+  },
+  "insulated": {
+    "series": "CPI",
+    "products": [
+      {"size_sq_mm": 0.75, "catalog_no": "CPI-60", "price_inr": 3.26, "std_pkg": 16000},
+      {"size_sq_mm": 1, "catalog_no": "CPI-45", "price_inr": 3.26, "std_pkg": 4000},
+      {"size_sq_mm": 1.5, "catalog_no": "CPI-17", "price_inr": 3.26, "std_pkg": 10000},
+      {"size_sq_mm": 1.5, "catalog_no": "CPI-36", "price_inr": 3.90, "std_pkg": 4000},
+      {"size_sq_mm": 2.5, "catalog_no": "CPI-18", "price_inr": 3.90, "std_pkg": 10000},
+      {"size_sq_mm": 2.5, "catalog_no": "CPI-19", "price_inr": 3.90, "std_pkg": 4000},
+      {"size_sq_mm": 4, "catalog_no": "CPI-20", "price_inr": 6.84, "std_pkg": 4000},
+      {"size_sq_mm": 6, "catalog_no": "CPI-21", "price_inr": 7.48, "std_pkg": 4000}
+    ]
+  },
+  "double_grip_insulated": {
+    "series": "CPDI",
+    "description": "Double grip pre-insulated pin terminals",
+    "products": [
+      {"size_sq_mm": 0.5, "catalog_no": "CPDI-37", "price_inr": 3.26, "std_pkg": 8000},
+      {"size_sq_mm": 0.75, "catalog_no": "CPDI-38", "price_inr": 3.26, "std_pkg": 8000},
+      {"size_sq_mm": 1, "catalog_no": "CPDI-39", "price_inr": 3.26, "std_pkg": 8000},
+      {"size_sq_mm": 1.5, "catalog_no": "CPDI-22", "price_inr": 3.90, "std_pkg": 4000},
+      {"size_sq_mm": 2.5, "catalog_no": "CPDI-23", "price_inr": 4.53, "std_pkg": 4000},
+      {"size_sq_mm": 4, "catalog_no": "CPDI-40", "price_inr": 7.16, "std_pkg": 4000},
+      {"size_sq_mm": 6, "catalog_no": "CPDI-41", "price_inr": 8.11, "std_pkg": 4000}
+    ]
+  }
+}

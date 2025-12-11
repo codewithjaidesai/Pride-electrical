@@ -1,0 +1,350 @@
+{
+  "category": "Aluminium Sector Lugs",
+  "category_id": "aluminium-sector-lugs",
+  "description": "Designed for sector shaped conductors for 2C, 3C, 3.5C and 4C aluminium cables. Eliminates the process of rounding sector shaped cable conductors.",
+  "material": "Aluminium",
+  "long_barrel": {
+    "products": [
+      {
+        "size_sq_mm": 25,
+        "hole_size_mm": 8.4,
+        "catalog_numbers": {"2_core": "ALS-2001", "3_core": "ALS-3001", "3.5_core": "ALS-3501", "4_core": "ALS-4001"},
+        "price_inr": 20.90,
+        "std_pkg": 200
+      },
+      {
+        "size_sq_mm": 25,
+        "hole_size_mm": 10.5,
+        "catalog_numbers": {"2_core": "ALS-2002", "3_core": "ALS-3002", "3.5_core": "ALS-3502", "4_core": "ALS-4002"},
+        "price_inr": 20.90,
+        "std_pkg": 200
+      },
+      {
+        "size_sq_mm": 35,
+        "hole_size_mm": 8.4,
+        "catalog_numbers": {"2_core": "ALS-2003", "3_core": "ALS-3003", "3.5_core": "ALS-3503", "4_core": "ALS-4003"},
+        "price_inr": 28.60,
+        "std_pkg": 200
+      },
+      {
+        "size_sq_mm": 35,
+        "hole_size_mm": 10.5,
+        "catalog_numbers": {"2_core": "ALS-2004", "3_core": "ALS-3004", "3.5_core": "ALS-3504", "4_core": "ALS-4004"},
+        "price_inr": 28.60,
+        "std_pkg": 200
+      },
+      {
+        "size_sq_mm": 50,
+        "hole_size_mm": 10.5,
+        "catalog_numbers": {"2_core": "ALS-2005", "3_core": "ALS-3005", "3.5_core": "ALS-3505", "4_core": "ALS-4005"},
+        "price_inr": 41.80,
+        "std_pkg": 200
+      },
+      {
+        "size_sq_mm": 50,
+        "hole_size_mm": 13,
+        "catalog_numbers": {"2_core": "ALS-2006", "3_core": "ALS-3006", "3.5_core": "ALS-3506", "4_core": "ALS-4006"},
+        "price_inr": 41.80,
+        "std_pkg": 200
+      },
+      {
+        "size_sq_mm": 70,
+        "hole_size_mm": 10.5,
+        "catalog_numbers": {"2_core": "ALS-2007", "3_core": "ALS-3007", "3.5_core": "ALS-3507", "4_core": "ALS-4007"},
+        "price_inr": 57.20,
+        "std_pkg": 100
+      },
+      {
+        "size_sq_mm": 70,
+        "hole_size_mm": 13,
+        "catalog_numbers": {"2_core": "ALS-2008", "3_core": "ALS-3008", "3.5_core": "ALS-3508", "4_core": "ALS-4008"},
+        "price_inr": 57.20,
+        "std_pkg": 100
+      },
+      {
+        "size_sq_mm": 95,
+        "hole_size_mm": 10.5,
+        "catalog_numbers": {"2_core": "ALS-2009", "3_core": "ALS-3009", "3.5_core": "ALS-3509", "4_core": "ALS-4009"},
+        "price_inr": 73.70,
+        "std_pkg": 80
+      },
+      {
+        "size_sq_mm": 95,
+        "hole_size_mm": 13,
+        "catalog_numbers": {"2_core": "ALS-2010", "3_core": "ALS-3010", "3.5_core": "ALS-3510", "4_core": "ALS-4010"},
+        "price_inr": 73.70,
+        "std_pkg": 80
+      },
+      {
+        "size_sq_mm": 120,
+        "hole_size_mm": 13,
+        "catalog_numbers": {"2_core": "ALS-2011", "3_core": "ALS-3011", "3.5_core": "ALS-3511", "4_core": "ALS-4011"},
+        "price_inr": 95.70,
+        "std_pkg": 80
+      },
+      {
+        "size_sq_mm": 120,
+        "hole_size_mm": 17,
+        "catalog_numbers": {"2_core": "ALS-2012", "3_core": "ALS-3012", "3.5_core": "ALS-3512", "4_core": "ALS-4012"},
+        "price_inr": 95.70,
+        "std_pkg": 80
+      },
+      {
+        "size_sq_mm": 150,
+        "hole_size_mm": 13,
+        "catalog_numbers": {"2_core": "ALS-2013", "3_core": "ALS-3013", "3.5_core": "ALS-3513", "4_core": "ALS-4013"},
+        "price_inr": 116.60,
+        "std_pkg": 60
+      },
+      {
+        "size_sq_mm": 150,
+        "hole_size_mm": 17,
+        "catalog_numbers": {"2_core": "ALS-2014", "3_core": "ALS-3014", "3.5_core": "ALS-3514", "4_core": "ALS-4014"},
+        "price_inr": 116.60,
+        "std_pkg": 60
+      },
+      {
+        "size_sq_mm": 185,
+        "hole_size_mm": 13,
+        "catalog_numbers": {"2_core": "ALS-2015", "3_core": "ALS-3015", "3.5_core": "ALS-3515", "4_core": "ALS-4015"},
+        "price_inr": 142.45,
+        "std_pkg": 60
+      },
+      {
+        "size_sq_mm": 185,
+        "hole_size_mm": 17,
+        "catalog_numbers": {"2_core": "ALS-2016", "3_core": "ALS-3016", "3.5_core": "ALS-3516", "4_core": "ALS-4016"},
+        "price_inr": 142.45,
+        "std_pkg": 60
+      },
+      {
+        "size_sq_mm": 240,
+        "hole_size_mm": 13,
+        "catalog_numbers": {"2_core": "ALS-2017", "3_core": "ALS-3017", "3.5_core": "ALS-3517", "4_core": "ALS-4017"},
+        "price_inr": 199.10,
+        "std_pkg": 40
+      },
+      {
+        "size_sq_mm": 240,
+        "hole_size_mm": 17,
+        "catalog_numbers": {"2_core": "ALS-2018", "3_core": "ALS-3018", "3.5_core": "ALS-3518", "4_core": "ALS-4018"},
+        "price_inr": 199.10,
+        "std_pkg": 40
+      },
+      {
+        "size_sq_mm": 300,
+        "hole_size_mm": 17,
+        "catalog_numbers": {"2_core": "ALS-2019", "3_core": "ALS-3019", "3.5_core": "ALS-3519", "4_core": "ALS-4019"},
+        "price_inr": 275.00,
+        "std_pkg": 40
+      },
+      {
+        "size_sq_mm": 300,
+        "hole_size_mm": 20.3,
+        "catalog_numbers": {"2_core": "ALS-2020", "3_core": "ALS-3020", "3.5_core": "ALS-3520", "4_core": "ALS-4020"},
+        "price_inr": 275.00,
+        "std_pkg": 40
+      },
+      {
+        "size_sq_mm": 400,
+        "hole_size_mm": 17,
+        "catalog_numbers": {"2_core": "ALS-2021", "3_core": "ALS-3021", "3.5_core": "ALS-3521", "4_core": "ALS-4021"},
+        "price_inr": 396.00,
+        "std_pkg": 20
+      },
+      {
+        "size_sq_mm": 400,
+        "hole_size_mm": 20.3,
+        "catalog_numbers": {"2_core": "ALS-2022", "3_core": "ALS-3022", "3.5_core": "ALS-3522", "4_core": "ALS-4022"},
+        "price_inr": 396.00,
+        "std_pkg": 20
+      },
+      {
+        "size_sq_mm": 500,
+        "hole_size_mm": 21,
+        "catalog_numbers": {"2_core": "ALS-2023", "3_core": "ALS-3023", "3.5_core": "ALS-3523", "4_core": "ALS-4023"},
+        "price_inr": 561.00,
+        "std_pkg": 16
+      },
+      {
+        "size_sq_mm": 630,
+        "hole_size_mm": 21,
+        "catalog_numbers": {"2_core": "ALS-2024", "3_core": "ALS-3024", "3.5_core": "ALS-3524", "4_core": "ALS-4024"},
+        "price_inr": 792.00,
+        "std_pkg": 12
+      }
+    ]
+  },
+  "short_barrel": {
+    "products": [
+      {
+        "size_sq_mm": 25,
+        "hole_size_mm": 8.4,
+        "catalog_numbers": {"2_core": "ALS-2101", "3_core": "ALS-3101", "3.5_core": "ALS-3601", "4_core": "ALS-4101"},
+        "price_inr": 14.30,
+        "std_pkg": 200
+      },
+      {
+        "size_sq_mm": 25,
+        "hole_size_mm": 10.5,
+        "catalog_numbers": {"2_core": "ALS-2102", "3_core": "ALS-3102", "3.5_core": "ALS-3602", "4_core": "ALS-4102"},
+        "price_inr": 14.30,
+        "std_pkg": 200
+      },
+      {
+        "size_sq_mm": 35,
+        "hole_size_mm": 8.4,
+        "catalog_numbers": {"2_core": "ALS-2103", "3_core": "ALS-3103", "3.5_core": "ALS-3603", "4_core": "ALS-4103"},
+        "price_inr": 18.70,
+        "std_pkg": 200
+      },
+      {
+        "size_sq_mm": 35,
+        "hole_size_mm": 10.5,
+        "catalog_numbers": {"2_core": "ALS-2104", "3_core": "ALS-3104", "3.5_core": "ALS-3604", "4_core": "ALS-4104"},
+        "price_inr": 18.70,
+        "std_pkg": 200
+      },
+      {
+        "size_sq_mm": 50,
+        "hole_size_mm": 10.5,
+        "catalog_numbers": {"2_core": "ALS-2105", "3_core": "ALS-3105", "3.5_core": "ALS-3605", "4_core": "ALS-4105"},
+        "price_inr": 27.50,
+        "std_pkg": 200
+      },
+      {
+        "size_sq_mm": 50,
+        "hole_size_mm": 13,
+        "catalog_numbers": {"2_core": "ALS-2106", "3_core": "ALS-3106", "3.5_core": "ALS-3606", "4_core": "ALS-4106"},
+        "price_inr": 27.50,
+        "std_pkg": 200
+      },
+      {
+        "size_sq_mm": 70,
+        "hole_size_mm": 10.5,
+        "catalog_numbers": {"2_core": "ALS-2107", "3_core": "ALS-3107", "3.5_core": "ALS-3607", "4_core": "ALS-4107"},
+        "price_inr": 38.50,
+        "std_pkg": 100
+      },
+      {
+        "size_sq_mm": 70,
+        "hole_size_mm": 13,
+        "catalog_numbers": {"2_core": "ALS-2108", "3_core": "ALS-3108", "3.5_core": "ALS-3608", "4_core": "ALS-4108"},
+        "price_inr": 38.50,
+        "std_pkg": 100
+      },
+      {
+        "size_sq_mm": 95,
+        "hole_size_mm": 10.5,
+        "catalog_numbers": {"2_core": "ALS-2109", "3_core": "ALS-3109", "3.5_core": "ALS-3609", "4_core": "ALS-4109"},
+        "price_inr": 49.50,
+        "std_pkg": 80
+      },
+      {
+        "size_sq_mm": 95,
+        "hole_size_mm": 13,
+        "catalog_numbers": {"2_core": "ALS-2110", "3_core": "ALS-3110", "3.5_core": "ALS-3610", "4_core": "ALS-4110"},
+        "price_inr": 49.50,
+        "std_pkg": 80
+      },
+      {
+        "size_sq_mm": 120,
+        "hole_size_mm": 13,
+        "catalog_numbers": {"2_core": "ALS-2111", "3_core": "ALS-3111", "3.5_core": "ALS-3611", "4_core": "ALS-4111"},
+        "price_inr": 64.90,
+        "std_pkg": 80
+      },
+      {
+        "size_sq_mm": 120,
+        "hole_size_mm": 17,
+        "catalog_numbers": {"2_core": "ALS-2112", "3_core": "ALS-3112", "3.5_core": "ALS-3612", "4_core": "ALS-4112"},
+        "price_inr": 64.90,
+        "std_pkg": 80
+      },
+      {
+        "size_sq_mm": 150,
+        "hole_size_mm": 13,
+        "catalog_numbers": {"2_core": "ALS-2113", "3_core": "ALS-3113", "3.5_core": "ALS-3613", "4_core": "ALS-4113"},
+        "price_inr": 80.30,
+        "std_pkg": 60
+      },
+      {
+        "size_sq_mm": 150,
+        "hole_size_mm": 17,
+        "catalog_numbers": {"2_core": "ALS-2114", "3_core": "ALS-3114", "3.5_core": "ALS-3614", "4_core": "ALS-4114"},
+        "price_inr": 80.30,
+        "std_pkg": 60
+      },
+      {
+        "size_sq_mm": 185,
+        "hole_size_mm": 13,
+        "catalog_numbers": {"2_core": "ALS-2115", "3_core": "ALS-3115", "3.5_core": "ALS-3615", "4_core": "ALS-4115"},
+        "price_inr": 99.00,
+        "std_pkg": 60
+      },
+      {
+        "size_sq_mm": 185,
+        "hole_size_mm": 17,
+        "catalog_numbers": {"2_core": "ALS-2116", "3_core": "ALS-3116", "3.5_core": "ALS-3616", "4_core": "ALS-4116"},
+        "price_inr": 99.00,
+        "std_pkg": 60
+      },
+      {
+        "size_sq_mm": 240,
+        "hole_size_mm": 13,
+        "catalog_numbers": {"2_core": "ALS-2117", "3_core": "ALS-3117", "3.5_core": "ALS-3617", "4_core": "ALS-4117"},
+        "price_inr": 143.00,
+        "std_pkg": 40
+      },
+      {
+        "size_sq_mm": 240,
+        "hole_size_mm": 17,
+        "catalog_numbers": {"2_core": "ALS-2118", "3_core": "ALS-3118", "3.5_core": "ALS-3618", "4_core": "ALS-4118"},
+        "price_inr": 143.00,
+        "std_pkg": 40
+      },
+      {
+        "size_sq_mm": 300,
+        "hole_size_mm": 17,
+        "catalog_numbers": {"2_core": "ALS-2119", "3_core": "ALS-3119", "3.5_core": "ALS-3619", "4_core": "ALS-4119"},
+        "price_inr": 198.00,
+        "std_pkg": 40
+      },
+      {
+        "size_sq_mm": 300,
+        "hole_size_mm": 20.3,
+        "catalog_numbers": {"2_core": "ALS-2120", "3_core": "ALS-3120", "3.5_core": "ALS-3620", "4_core": "ALS-4120"},
+        "price_inr": 198.00,
+        "std_pkg": 40
+      },
+      {
+        "size_sq_mm": 400,
+        "hole_size_mm": 17,
+        "catalog_numbers": {"2_core": "ALS-2121", "3_core": "ALS-3121", "3.5_core": "ALS-3621", "4_core": "ALS-4121"},
+        "price_inr": 275.00,
+        "std_pkg": 20
+      },
+      {
+        "size_sq_mm": 400,
+        "hole_size_mm": 20.3,
+        "catalog_numbers": {"2_core": "ALS-2122", "3_core": "ALS-3122", "3.5_core": "ALS-3622", "4_core": "ALS-4122"},
+        "price_inr": 275.00,
+        "std_pkg": 20
+      },
+      {
+        "size_sq_mm": 500,
+        "hole_size_mm": 21,
+        "catalog_numbers": {"2_core": "ALS-2123", "3_core": "ALS-3123", "3.5_core": "ALS-3623", "4_core": "ALS-4123"},
+        "price_inr": 390.50,
+        "std_pkg": 16
+      },
+      {
+        "size_sq_mm": 630,
+        "hole_size_mm": 21,
+        "catalog_numbers": {"2_core": "ALS-2124", "3_core": "ALS-3124", "3.5_core": "ALS-3624", "4_core": "ALS-4124"},
+        "price_inr": 550.00,
+        "std_pkg": 12
+      }
+    ]
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "category": "Copper Sector Lugs - Short Barrel",
+  "category_id": "copper-sector-lugs-short-barrel",
+  "description": "Short barrel version for sector shaped conductors for 2C, 3C, 3.5C and 4C cables.",
+  "material": "Copper",
+  "barrel_type": "Short Barrel",
+  "finish": "Electrolytically tin plated",
+  "products": [
+    {
+      "size_sq_mm": 25,
+      "hole_size_mm": 8.4,
+      "catalog_numbers": {
+        "2_core": "CUS-2101",
+        "3_core": "CUS-3101",
+        "3.5_core": "CUS-3601",
+        "4_core": "CUS-4101"
+      },
+      "price_inr": 41.80,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 25,
+      "hole_size_mm": 10.5,
+      "catalog_numbers": {
+        "2_core": "CUS-2102",
+        "3_core": "CUS-3102",
+        "3.5_core": "CUS-3602",
+        "4_core": "CUS-4102"
+      },
+      "price_inr": 41.80,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 25,
+      "hole_size_mm": 13,
+      "catalog_numbers": {
+        "2_core": "CUS-2103",
+        "3_core": "CUS-3103",
+        "3.5_core": "CUS-3603",
+        "4_core": "CUS-4103"
+      },
+      "price_inr": 41.80,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 35,
+      "hole_size_mm": 8.4,
+      "catalog_numbers": {
+        "2_core": "CUS-2104",
+        "3_core": "CUS-3104",
+        "3.5_core": "CUS-3604",
+        "4_core": "CUS-4104"
+      },
+      "price_inr": 60.50,
+      "std_pkg": 200
+    },
+    {
+      "size_sq_mm": 35,
+      "hole_size_mm": 10.5,
+      "catalog_numbers": {
+        "2_core": "CUS-2105",
+        "3_core": "CUS-3105",
+        "3.5_core": "CUS-3605",
+        "4_core": "CUS-4105"
+      },
+      "price_inr": 60.50,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 50,
+      "hole_size_mm": 8.4,
+      "catalog_numbers": {
+        "2_core": "CUS-2106",
+        "3_core": "CUS-3106",
+        "3.5_core": "CUS-3606",
+        "4_core": "CUS-4106"
+      },
+      "price_inr": 93.50,
+      "std_pkg": 200
+    },
+    {
+      "size_sq_mm": 50,
+      "hole_size_mm": 10.5,
+      "catalog_numbers": {
+        "2_core": "CUS-2107",
+        "3_core": "CUS-3107",
+        "3.5_core": "CUS-3607",
+        "4_core": "CUS-4107"
+      },
+      "price_inr": 93.50,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 50,
+      "hole_size_mm": 13,
+      "catalog_numbers": {
+        "2_core": "CUS-2108",
+        "3_core": "CUS-3108",
+        "3.5_core": "CUS-3608",
+        "4_core": "CUS-4108"
+      },
+      "price_inr": 93.50,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 70,
+      "hole_size_mm": 8.4,
+      "catalog_numbers": {
+        "2_core": "CUS-2109",
+        "3_core": "CUS-3109",
+        "3.5_core": "CUS-3609",
+        "4_core": "CUS-4109"
+      },
+      "price_inr": 154.00,
+      "std_pkg": 200
+    },
+    {
+      "size_sq_mm": 70,
+      "hole_size_mm": 10.5,
+      "catalog_numbers": {
+        "2_core": "CUS-2110",
+        "3_core": "CUS-3110",
+        "3.5_core": "CUS-3610",
+        "4_core": "CUS-4110"
+      },
+      "price_inr": 154.00,
+      "std_pkg": 200
+    },
+    {
+      "size_sq_mm": 70,
+      "hole_size_mm": 13,
+      "catalog_numbers": {
+        "2_core": "CUS-2111",
+        "3_core": "CUS-3111",
+        "3.5_core": "CUS-3611",
+        "4_core": "CUS-4111"
+      },
+      "price_inr": 154.00,
+      "std_pkg": 200
+    },
+    {
+      "size_sq_mm": 95,
+      "hole_size_mm": 10.5,
+      "catalog_numbers": {
+        "2_core": "CUS-2112",
+        "3_core": "CUS-3112",
+        "3.5_core": "CUS-3612",
+        "4_core": "CUS-4112"
+      },
+      "price_inr": 182.60,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 95,
+      "hole_size_mm": 13,
+      "catalog_numbers": {
+        "2_core": "CUS-2113",
+        "3_core": "CUS-3113",
+        "3.5_core": "CUS-3613",
+        "4_core": "CUS-4113"
+      },
+      "price_inr": 182.60,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 95,
+      "hole_size_mm": 17,
+      "catalog_numbers": {
+        "2_core": "CUS-2114",
+        "3_core": "CUS-3114",
+        "3.5_core": "CUS-3614",
+        "4_core": "CUS-4114"
+      },
+      "price_inr": 182.60,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 120,
+      "hole_size_mm": 10.5,
+      "catalog_numbers": {
+        "2_core": "CUS-2115",
+        "3_core": "CUS-3115",
+        "3.5_core": "CUS-3615",
+        "4_core": "CUS-4115"
+      },
+      "price_inr": 272.80,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 120,
+      "hole_size_mm": 13,
+      "catalog_numbers": {
+        "2_core": "CUS-2116",
+        "3_core": "CUS-3116",
+        "3.5_core": "CUS-3616",
+        "4_core": "CUS-4116"
+      },
+      "price_inr": 272.80,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 120,
+      "hole_size_mm": 17,
+      "catalog_numbers": {
+        "2_core": "CUS-2117",
+        "3_core": "CUS-3117",
+        "3.5_core": "CUS-3617",
+        "4_core": "CUS-4117"
+      },
+      "price_inr": 272.80,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 150,
+      "hole_size_mm": 10.5,
+      "catalog_numbers": {
+        "2_core": "CUS-2118",
+        "3_core": "CUS-3118",
+        "3.5_core": "CUS-3618",
+        "4_core": "CUS-4118"
+      },
+      "price_inr": 343.20,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 150,
+      "hole_size_mm": 13,
+      "catalog_numbers": {
+        "2_core": "CUS-2119",
+        "3_core": "CUS-3119",
+        "3.5_core": "CUS-3619",
+        "4_core": "CUS-4119"
+      },
+      "price_inr": 343.20,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 150,
+      "hole_size_mm": 17,
+      "catalog_numbers": {
+        "2_core": "CUS-2120",
+        "3_core": "CUS-3120",
+        "3.5_core": "CUS-3620",
+        "4_core": "CUS-4120"
+      },
+      "price_inr": 343.20,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 185,
+      "hole_size_mm": 10.5,
+      "catalog_numbers": {
+        "2_core": "CUS-2121",
+        "3_core": "CUS-3121",
+        "3.5_core": "CUS-3621",
+        "4_core": "CUS-4121"
+      },
+      "price_inr": 441.10,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 185,
+      "hole_size_mm": 13,
+      "catalog_numbers": {
+        "2_core": "CUS-2122",
+        "3_core": "CUS-3122",
+        "3.5_core": "CUS-3622",
+        "4_core": "CUS-4122"
+      },
+      "price_inr": 441.10,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 185,
+      "hole_size_mm": 17,
+      "catalog_numbers": {
+        "2_core": "CUS-2123",
+        "3_core": "CUS-3123",
+        "3.5_core": "CUS-3623",
+        "4_core": "CUS-4123"
+      },
+      "price_inr": 441.10,
+      "std_pkg": 100
+    },
+    {
+      "size_sq_mm": 240,
+      "hole_size_mm": 13,
+      "catalog_numbers": {
+        "2_core": "CUS-2124",
+        "3_core": "CUS-3124",
+        "3.5_core": "CUS-3624",
+        "4_core": "CUS-4124"
+      },
+      "price_inr": 694.10,
+      "std_pkg": 80
+    },
+    {
+      "size_sq_mm": 240,
+      "hole_size_mm": 17,
+      "catalog_numbers": {
+        "2_core": "CUS-2125",
+        "3_core": "CUS-3125",
+        "3.5_core": "CUS-3625",
+        "4_core": "CUS-4125"
+      },
+      "price_inr": 694.10,
+      "std_pkg": 80
+    },
+    {
+      "size_sq_mm": 300,
+      "hole_size_mm": 17,
+      "catalog_numbers": {
+        "2_core": "CUS-2126",
+        "3_core": "CUS-3126",
+        "3.5_core": "CUS-3626",
+        "4_core": "CUS-4126"
+      },
+      "price_inr": 887.70,
+      "std_pkg": 60
+    },
+    {
+      "size_sq_mm": 300,
+      "hole_size_mm": 20.3,
+      "catalog_numbers": {
+        "2_core": "CUS-2127",
+        "3_core": "CUS-3127",
+        "3.5_core": "CUS-3627",
+        "4_core": "CUS-4127"
+      },
+      "price_inr": 887.70,
+      "std_pkg": 60
+    },
+    {
+      "size_sq_mm": 400,
+      "hole_size_mm": 20.3,
+      "catalog_numbers": {
+        "2_core": "CUS-2128",
+        "3_core": "CUS-3128",
+        "3.5_core": "CUS-3628",
+        "4_core": "CUS-4128"
+      },
+      "price_inr": 1316.70,
+      "std_pkg": 40
+    },
+    {
+      "size_sq_mm": 500,
+      "hole_size_mm": 21,
+      "catalog_numbers": {
+        "2_core": "CUS-2129",
+        "3_core": "CUS-3129",
+        "3.5_core": "CUS-3629",
+        "4_core": "CUS-4129"
+      },
+      "price_inr": 1527.90,
+      "std_pkg": 20
+    },
+    {
+      "size_sq_mm": 630,
+      "hole_size_mm": 21,
+      "catalog_numbers": {
+        "2_core": "CUS-2130",
+        "3_core": "CUS-3130",
+        "3.5_core": "CUS-3630",
+        "4_core": "CUS-4130"
+      },
+      "price_inr": 2290.20,
+      "std_pkg": 20
+    }
+  ]
+}

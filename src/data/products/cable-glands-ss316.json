@@ -1,0 +1,46 @@
+{
+  "category": "SS316 Cable Glands",
+  "category_id": "cable-glands-ss316",
+  "description": "Stainless Steel 316 cable glands for corrosive environments. Available in NPT, Metric, and ET threading.",
+  "material": "SS316",
+  "npt_threading": {
+    "description": "SS316 Double Compression Cable Glands with NPT Threading",
+    "products": [
+      {"suitable_od_mm": "3.0-6.5", "thread": "1/4\" NPT", "catalog_no": "SS316-NPT-01", "price_inr": 825.00, "box_pkg": 50},
+      {"suitable_od_mm": "5.0-10.0", "thread": "3/8\" NPT", "catalog_no": "SS316-NPT-02", "price_inr": 880.00, "box_pkg": 50},
+      {"suitable_od_mm": "8.0-14.0", "thread": "1/2\" NPT", "catalog_no": "SS316-NPT-03", "price_inr": 990.00, "box_pkg": 50},
+      {"suitable_od_mm": "11.0-18.0", "thread": "1/2\" NPT", "catalog_no": "SS316-NPT-04", "price_inr": 1100.00, "box_pkg": 50},
+      {"suitable_od_mm": "14.0-20.0", "thread": "3/4\" NPT", "catalog_no": "SS316-NPT-05", "price_inr": 1320.00, "box_pkg": 25},
+      {"suitable_od_mm": "18.0-25.0", "thread": "3/4\" NPT", "catalog_no": "SS316-NPT-06", "price_inr": 1540.00, "box_pkg": 25},
+      {"suitable_od_mm": "20.0-26.0", "thread": "1\" NPT", "catalog_no": "SS316-NPT-07", "price_inr": 1870.00, "box_pkg": 25},
+      {"suitable_od_mm": "24.0-32.0", "thread": "1\" NPT", "catalog_no": "SS316-NPT-08", "price_inr": 2200.00, "box_pkg": 25},
+      {"suitable_od_mm": "28.0-36.0", "thread": "1-1/4\" NPT", "catalog_no": "SS316-NPT-09", "price_inr": 2750.00, "box_pkg": 15},
+      {"suitable_od_mm": "33.0-42.0", "thread": "1-1/2\" NPT", "catalog_no": "SS316-NPT-10", "price_inr": 3300.00, "box_pkg": 15},
+      {"suitable_od_mm": "37.0-47.0", "thread": "1-1/2\" NPT", "catalog_no": "SS316-NPT-11", "price_inr": 3850.00, "box_pkg": 10},
+      {"suitable_od_mm": "42.0-52.0", "thread": "2\" NPT", "catalog_no": "SS316-NPT-12", "price_inr": 4950.00, "box_pkg": 10},
+      {"suitable_od_mm": "50.0-63.0", "thread": "2\" NPT", "catalog_no": "SS316-NPT-13", "price_inr": 6050.00, "box_pkg": 5},
+      {"suitable_od_mm": "55.0-68.0", "thread": "2-1/2\" NPT", "catalog_no": "SS316-NPT-14", "price_inr": 8800.00, "box_pkg": 5},
+      {"suitable_od_mm": "63.0-77.0", "thread": "3\" NPT", "catalog_no": "SS316-NPT-15", "price_inr": 11000.00, "box_pkg": 5}
+    ]
+  },
+  "metric_threading": {
+    "description": "SS316 Double Compression Cable Glands with Metric Threading",
+    "products": [
+      {"suitable_od_mm": "3.0-6.5", "thread": "M12x1.5", "catalog_no": "SS316-M-01", "price_inr": 825.00, "box_pkg": 50},
+      {"suitable_od_mm": "5.0-10.0", "thread": "M16x1.5", "catalog_no": "SS316-M-02", "price_inr": 880.00, "box_pkg": 50},
+      {"suitable_od_mm": "8.0-14.0", "thread": "M20x1.5", "catalog_no": "SS316-M-03", "price_inr": 990.00, "box_pkg": 50},
+      {"suitable_od_mm": "11.0-18.0", "thread": "M25x1.5", "catalog_no": "SS316-M-04", "price_inr": 1100.00, "box_pkg": 50},
+      {"suitable_od_mm": "14.0-20.0", "thread": "M25x1.5", "catalog_no": "SS316-M-05", "price_inr": 1320.00, "box_pkg": 25},
+      {"suitable_od_mm": "18.0-25.0", "thread": "M32x1.5", "catalog_no": "SS316-M-06", "price_inr": 1540.00, "box_pkg": 25},
+      {"suitable_od_mm": "20.0-26.0", "thread": "M32x1.5", "catalog_no": "SS316-M-07", "price_inr": 1870.00, "box_pkg": 25},
+      {"suitable_od_mm": "24.0-32.0", "thread": "M40x1.5", "catalog_no": "SS316-M-08", "price_inr": 2200.00, "box_pkg": 25},
+      {"suitable_od_mm": "28.0-36.0", "thread": "M40x1.5", "catalog_no": "SS316-M-09", "price_inr": 2750.00, "box_pkg": 15},
+      {"suitable_od_mm": "33.0-42.0", "thread": "M50x1.5", "catalog_no": "SS316-M-10", "price_inr": 3300.00, "box_pkg": 15},
+      {"suitable_od_mm": "37.0-47.0", "thread": "M50x1.5", "catalog_no": "SS316-M-11", "price_inr": 3850.00, "box_pkg": 10},
+      {"suitable_od_mm": "42.0-52.0", "thread": "M63x1.5", "catalog_no": "SS316-M-12", "price_inr": 4950.00, "box_pkg": 10},
+      {"suitable_od_mm": "50.0-63.0", "thread": "M63x1.5", "catalog_no": "SS316-M-13", "price_inr": 6050.00, "box_pkg": 5},
+      {"suitable_od_mm": "55.0-68.0", "thread": "M75x1.5", "catalog_no": "SS316-M-14", "price_inr": 8800.00, "box_pkg": 5},
+      {"suitable_od_mm": "63.0-77.0", "thread": "M75x1.5", "catalog_no": "SS316-M-15", "price_inr": 11000.00, "box_pkg": 5}
+    ]
+  }
+}

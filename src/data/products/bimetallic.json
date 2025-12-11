@@ -1,0 +1,83 @@
+{
+  "category": "Bi-Metallic Series",
+  "category_id": "bimetallic",
+  "description": "Friction welded Cu-Al connectors and terminals. Bi-metallic products eliminate galvanic corrosion when connecting copper and aluminium conductors.",
+  "manufacturing": "Friction Welded",
+  "connectors": {
+    "description": "Bi-metallic in-line connectors for joining copper and aluminium conductors",
+    "series": "BMCL",
+    "products": [
+      {"size_sq_mm": 16, "catalog_no": "BMCL-16", "price_inr": 72.60, "std_pkg": 400},
+      {"size_sq_mm": 25, "catalog_no": "BMCL-25", "price_inr": 93.50, "std_pkg": 400},
+      {"size_sq_mm": 35, "catalog_no": "BMCL-35", "price_inr": 115.50, "std_pkg": 200},
+      {"size_sq_mm": 50, "catalog_no": "BMCL-50", "price_inr": 165.00, "std_pkg": 200},
+      {"size_sq_mm": 70, "catalog_no": "BMCL-70", "price_inr": 217.80, "std_pkg": 200},
+      {"size_sq_mm": 95, "catalog_no": "BMCL-95", "price_inr": 283.80, "std_pkg": 200},
+      {"size_sq_mm": 120, "catalog_no": "BMCL-120", "price_inr": 345.40, "std_pkg": 80},
+      {"size_sq_mm": 150, "catalog_no": "BMCL-150", "price_inr": 429.00, "std_pkg": 60},
+      {"size_sq_mm": 185, "catalog_no": "BMCL-185", "price_inr": 517.00, "std_pkg": 60},
+      {"size_sq_mm": 240, "catalog_no": "BMCL-240", "price_inr": 660.00, "std_pkg": 50},
+      {"size_sq_mm": 300, "catalog_no": "BMCL-300", "price_inr": 847.00, "std_pkg": 30},
+      {"size_sq_mm": 400, "catalog_no": "BMCL-400", "price_inr": 1100.00, "std_pkg": 30},
+      {"size_sq_mm": 500, "catalog_no": "BMCL-500", "price_inr": 1595.00, "std_pkg": 20},
+      {"size_sq_mm": 630, "catalog_no": "BMCL-630", "price_inr": 2486.00, "std_pkg": 10}
+    ]
+  },
+  "terminals": {
+    "description": "Bi-metallic cable lugs with copper palm and aluminium barrel",
+    "series": "BML",
+    "products": [
+      {"size_sq_mm": 16, "hole_size_mm": 8, "catalog_no": "BML-16", "price_inr": 52.80, "std_pkg": 400},
+      {"size_sq_mm": 25, "hole_size_mm": 10, "catalog_no": "BML-25", "price_inr": 66.00, "std_pkg": 400},
+      {"size_sq_mm": 35, "hole_size_mm": 10, "catalog_no": "BML-35", "price_inr": 82.50, "std_pkg": 200},
+      {"size_sq_mm": 50, "hole_size_mm": 10, "catalog_no": "BML-50", "price_inr": 104.50, "std_pkg": 200},
+      {"size_sq_mm": 70, "hole_size_mm": 12, "catalog_no": "BML-70", "price_inr": 148.50, "std_pkg": 200},
+      {"size_sq_mm": 95, "hole_size_mm": 12, "catalog_no": "BML-95", "price_inr": 192.50, "std_pkg": 200},
+      {"size_sq_mm": 120, "hole_size_mm": 14, "catalog_no": "BML-120", "price_inr": 242.00, "std_pkg": 80},
+      {"size_sq_mm": 150, "hole_size_mm": 14, "catalog_no": "BML-150", "price_inr": 302.50, "std_pkg": 60},
+      {"size_sq_mm": 185, "hole_size_mm": 16, "catalog_no": "BML-185", "price_inr": 374.00, "std_pkg": 60},
+      {"size_sq_mm": 240, "hole_size_mm": 16, "catalog_no": "BML-240", "price_inr": 484.00, "std_pkg": 50},
+      {"size_sq_mm": 300, "hole_size_mm": 16, "catalog_no": "BML-300", "price_inr": 616.00, "std_pkg": 30},
+      {"size_sq_mm": 400, "hole_size_mm": 20, "catalog_no": "BML-400", "price_inr": 825.00, "std_pkg": 30},
+      {"size_sq_mm": 500, "hole_size_mm": 20, "catalog_no": "BML-500", "price_inr": 1182.50, "std_pkg": 20},
+      {"size_sq_mm": 630, "hole_size_mm": 20, "catalog_no": "BML-630", "price_inr": 1760.00, "std_pkg": 10}
+    ]
+  },
+  "terminals_long_barrel": {
+    "description": "Bi-metallic cable lugs long barrel version",
+    "series": "BMLL",
+    "products": [
+      {"size_sq_mm": 16, "hole_size_mm": 8, "catalog_no": "BMLL-16", "price_inr": 63.80, "std_pkg": 400},
+      {"size_sq_mm": 25, "hole_size_mm": 10, "catalog_no": "BMLL-25", "price_inr": 79.20, "std_pkg": 400},
+      {"size_sq_mm": 35, "hole_size_mm": 10, "catalog_no": "BMLL-35", "price_inr": 99.00, "std_pkg": 200},
+      {"size_sq_mm": 50, "hole_size_mm": 10, "catalog_no": "BMLL-50", "price_inr": 126.50, "std_pkg": 200},
+      {"size_sq_mm": 70, "hole_size_mm": 12, "catalog_no": "BMLL-70", "price_inr": 181.50, "std_pkg": 200},
+      {"size_sq_mm": 95, "hole_size_mm": 12, "catalog_no": "BMLL-95", "price_inr": 236.50, "std_pkg": 200},
+      {"size_sq_mm": 120, "hole_size_mm": 14, "catalog_no": "BMLL-120", "price_inr": 302.50, "std_pkg": 80},
+      {"size_sq_mm": 150, "hole_size_mm": 14, "catalog_no": "BMLL-150", "price_inr": 379.50, "std_pkg": 60},
+      {"size_sq_mm": 185, "hole_size_mm": 16, "catalog_no": "BMLL-185", "price_inr": 467.50, "std_pkg": 60},
+      {"size_sq_mm": 240, "hole_size_mm": 16, "catalog_no": "BMLL-240", "price_inr": 605.00, "std_pkg": 50},
+      {"size_sq_mm": 300, "hole_size_mm": 16, "catalog_no": "BMLL-300", "price_inr": 770.00, "std_pkg": 30},
+      {"size_sq_mm": 400, "hole_size_mm": 20, "catalog_no": "BMLL-400", "price_inr": 1031.25, "std_pkg": 30},
+      {"size_sq_mm": 500, "hole_size_mm": 20, "catalog_no": "BMLL-500", "price_inr": 1478.00, "std_pkg": 20},
+      {"size_sq_mm": 630, "hole_size_mm": 20, "catalog_no": "BMLL-630", "price_inr": 2200.00, "std_pkg": 10}
+    ]
+  },
+  "aluminium_alloy_terminals": {
+    "description": "Aluminium alloy cable lugs (palm and barrel both aluminium alloy)",
+    "series": "AAL",
+    "products": [
+      {"size_sq_mm": 16, "hole_size_mm": 8, "catalog_no": "AAL-16", "price_inr": 39.60, "std_pkg": 400},
+      {"size_sq_mm": 25, "hole_size_mm": 10, "catalog_no": "AAL-25", "price_inr": 49.50, "std_pkg": 400},
+      {"size_sq_mm": 35, "hole_size_mm": 10, "catalog_no": "AAL-35", "price_inr": 61.60, "std_pkg": 200},
+      {"size_sq_mm": 50, "hole_size_mm": 10, "catalog_no": "AAL-50", "price_inr": 78.10, "std_pkg": 200},
+      {"size_sq_mm": 70, "hole_size_mm": 12, "catalog_no": "AAL-70", "price_inr": 111.10, "std_pkg": 200},
+      {"size_sq_mm": 95, "hole_size_mm": 12, "catalog_no": "AAL-95", "price_inr": 143.00, "std_pkg": 200},
+      {"size_sq_mm": 120, "hole_size_mm": 14, "catalog_no": "AAL-120", "price_inr": 181.50, "std_pkg": 80},
+      {"size_sq_mm": 150, "hole_size_mm": 14, "catalog_no": "AAL-150", "price_inr": 225.50, "std_pkg": 60},
+      {"size_sq_mm": 185, "hole_size_mm": 16, "catalog_no": "AAL-185", "price_inr": 280.50, "std_pkg": 60},
+      {"size_sq_mm": 240, "hole_size_mm": 16, "catalog_no": "AAL-240", "price_inr": 363.00, "std_pkg": 50},
+      {"size_sq_mm": 300, "hole_size_mm": 16, "catalog_no": "AAL-300", "price_inr": 462.00, "std_pkg": 30}
+    ]
+  }
+}

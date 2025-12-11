@@ -1,0 +1,56 @@
+{
+  "category": "Copper In-Line Connectors",
+  "category_id": "copper-connectors",
+  "description": "Copper in-line connectors for joining copper conductors. Available in heavy duty, light duty, and insulated variants.",
+  "material": "Copper",
+  "heavy_duty": {
+    "series": "CCH",
+    "description": "Heavy duty copper in-line connectors",
+    "products": [
+      {"size_sq_mm": 10, "catalog_no": "CCH-01", "price_inr": 18.70, "std_pkg": 1600},
+      {"size_sq_mm": 16, "catalog_no": "CCH-02", "price_inr": 27.50, "std_pkg": 800},
+      {"size_sq_mm": 25, "catalog_no": "CCH-03", "price_inr": 49.50, "std_pkg": 800},
+      {"size_sq_mm": 35, "catalog_no": "CCH-04", "price_inr": 72.60, "std_pkg": 400},
+      {"size_sq_mm": 50, "catalog_no": "CCH-05", "price_inr": 110.00, "std_pkg": 200},
+      {"size_sq_mm": 70, "catalog_no": "CCH-06", "price_inr": 170.50, "std_pkg": 200},
+      {"size_sq_mm": 95, "catalog_no": "CCH-07", "price_inr": 242.00, "std_pkg": 100},
+      {"size_sq_mm": 120, "catalog_no": "CCH-08", "price_inr": 319.00, "std_pkg": 100},
+      {"size_sq_mm": 150, "catalog_no": "CCH-09", "price_inr": 401.50, "std_pkg": 60},
+      {"size_sq_mm": 185, "catalog_no": "CCH-10", "price_inr": 525.80, "std_pkg": 40},
+      {"size_sq_mm": 240, "catalog_no": "CCH-11", "price_inr": 731.50, "std_pkg": 40},
+      {"size_sq_mm": 300, "catalog_no": "CCH-12", "price_inr": 968.00, "std_pkg": 30},
+      {"size_sq_mm": 400, "catalog_no": "CCH-13", "price_inr": 1419.00, "std_pkg": 20},
+      {"size_sq_mm": 500, "catalog_no": "CCH-14", "price_inr": 2090.00, "std_pkg": 15},
+      {"size_sq_mm": 630, "catalog_no": "CCH-15", "price_inr": 3190.00, "std_pkg": 10}
+    ]
+  },
+  "light_duty": {
+    "series": "CCL",
+    "description": "Light duty copper in-line connectors",
+    "products": [
+      {"size_sq_mm": 1.5, "catalog_no": "CCL-01", "price_inr": 5.50, "std_pkg": 8000},
+      {"size_sq_mm": 2.5, "catalog_no": "CCL-02", "price_inr": 6.60, "std_pkg": 8000},
+      {"size_sq_mm": 4, "catalog_no": "CCL-03", "price_inr": 8.80, "std_pkg": 3200},
+      {"size_sq_mm": 6, "catalog_no": "CCL-04", "price_inr": 11.00, "std_pkg": 3200},
+      {"size_sq_mm": 10, "catalog_no": "CCL-05", "price_inr": 14.30, "std_pkg": 3200},
+      {"size_sq_mm": 16, "catalog_no": "CCL-06", "price_inr": 22.00, "std_pkg": 1600},
+      {"size_sq_mm": 25, "catalog_no": "CCL-07", "price_inr": 37.40, "std_pkg": 800},
+      {"size_sq_mm": 35, "catalog_no": "CCL-08", "price_inr": 55.00, "std_pkg": 400},
+      {"size_sq_mm": 50, "catalog_no": "CCL-09", "price_inr": 82.50, "std_pkg": 200},
+      {"size_sq_mm": 70, "catalog_no": "CCL-10", "price_inr": 126.50, "std_pkg": 200},
+      {"size_sq_mm": 95, "catalog_no": "CCL-11", "price_inr": 181.50, "std_pkg": 100},
+      {"size_sq_mm": 120, "catalog_no": "CCL-12", "price_inr": 236.50, "std_pkg": 100},
+      {"size_sq_mm": 150, "catalog_no": "CCL-13", "price_inr": 302.50, "std_pkg": 60}
+    ]
+  },
+  "insulated": {
+    "series": "CCI",
+    "description": "Insulated copper in-line connectors",
+    "products": [
+      {"size_sq_mm": 1.5, "catalog_no": "CCI-01", "price_inr": 7.70, "std_pkg": 4000},
+      {"size_sq_mm": 2.5, "catalog_no": "CCI-02", "price_inr": 8.80, "std_pkg": 4000},
+      {"size_sq_mm": 4, "catalog_no": "CCI-03", "price_inr": 13.20, "std_pkg": 2000},
+      {"size_sq_mm": 6, "catalog_no": "CCI-04", "price_inr": 16.50, "std_pkg": 2000}
+    ]
+  }
+}

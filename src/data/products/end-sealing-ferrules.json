@@ -1,0 +1,47 @@
+{
+  "category": "End Sealing Ferrules",
+  "category_id": "end-sealing-ferrules",
+  "description": "End sealing ferrules for wire termination. Available in non-insulated and insulated variants.",
+  "material": "Copper",
+  "note": "When customer requests 'Insulated Pin Type' in sizes 0.5-1.5 sq mm, they likely need End Sealing Ferrules Insulated instead of Pin Terminals. Flag as uncertain and provide both options.",
+  "non_insulated": {
+    "series": "EH",
+    "products": [
+      {"size_sq_mm": 0.5, "length_mm": 6, "catalog_no": "EH-508", "price_inr": 1.10, "std_pkg": 20000},
+      {"size_sq_mm": 0.75, "length_mm": 6, "catalog_no": "EH-509", "price_inr": 1.10, "std_pkg": 20000},
+      {"size_sq_mm": 1, "length_mm": 6, "catalog_no": "EH-510", "price_inr": 1.10, "std_pkg": 20000},
+      {"size_sq_mm": 1, "length_mm": 10, "catalog_no": "EH-511", "price_inr": 1.10, "std_pkg": 20000},
+      {"size_sq_mm": 1.5, "length_mm": 7, "catalog_no": "EH-512", "price_inr": 1.10, "std_pkg": 20000},
+      {"size_sq_mm": 1.5, "length_mm": 10, "catalog_no": "EH-513", "price_inr": 1.10, "std_pkg": 20000},
+      {"size_sq_mm": 2.5, "length_mm": 7, "catalog_no": "EH-514", "price_inr": 1.10, "std_pkg": 20000},
+      {"size_sq_mm": 2.5, "length_mm": 12, "catalog_no": "EH-515", "price_inr": 1.10, "std_pkg": 20000},
+      {"size_sq_mm": 4, "length_mm": 9, "catalog_no": "EH-516", "price_inr": 2.20, "std_pkg": 16000},
+      {"size_sq_mm": 4, "length_mm": 12, "catalog_no": "EH-517", "price_inr": 2.20, "std_pkg": 16000},
+      {"size_sq_mm": 6, "length_mm": 10, "catalog_no": "EH-518", "price_inr": 2.20, "std_pkg": 10000},
+      {"size_sq_mm": 6, "length_mm": 12, "catalog_no": "EH-519", "price_inr": 2.20, "std_pkg": 10000},
+      {"size_sq_mm": 6, "length_mm": 15, "catalog_no": "EH-520", "price_inr": 3.30, "std_pkg": 10000},
+      {"size_sq_mm": 10, "length_mm": 12, "catalog_no": "EH-521", "price_inr": 3.30, "std_pkg": 2500},
+      {"size_sq_mm": 10, "length_mm": 15, "catalog_no": "EH-522", "price_inr": 3.71, "std_pkg": 2500},
+      {"size_sq_mm": 10, "length_mm": 18, "catalog_no": "EH-523", "price_inr": 5.50, "std_pkg": 2500},
+      {"size_sq_mm": 16, "length_mm": 12, "catalog_no": "EH-524", "price_inr": 3.30, "std_pkg": 2500},
+      {"size_sq_mm": 16, "length_mm": 15, "catalog_no": "EH-525", "price_inr": 4.33, "std_pkg": 2000},
+      {"size_sq_mm": 16, "length_mm": 18, "catalog_no": "EH-526", "price_inr": 5.50, "std_pkg": 2000}
+    ]
+  },
+  "insulated": {
+    "series": "EHI",
+    "products": [
+      {"size_sq_mm": 0.5, "length_mm": 8, "catalog_no": "EHI-508", "price_inr": 1.10, "std_pkg": 40000},
+      {"size_sq_mm": 0.75, "length_mm": 8, "catalog_no": "EHI-509", "price_inr": 1.10, "std_pkg": 40000},
+      {"size_sq_mm": 1, "length_mm": 6, "catalog_no": "EHI-510", "price_inr": 2.20, "std_pkg": 20000},
+      {"size_sq_mm": 1, "length_mm": 10, "catalog_no": "EHI-511", "price_inr": 2.20, "std_pkg": 25000},
+      {"size_sq_mm": 1.5, "length_mm": 10, "catalog_no": "EHI-513", "price_inr": 2.20, "std_pkg": 25000},
+      {"size_sq_mm": 2.5, "length_mm": 8, "catalog_no": "EHI-514", "price_inr": 2.20, "std_pkg": 15000},
+      {"size_sq_mm": 2.5, "length_mm": 12, "catalog_no": "EHI-515", "price_inr": 2.20, "std_pkg": 16000},
+      {"size_sq_mm": 4, "length_mm": 12, "catalog_no": "EHI-517", "price_inr": 3.30, "std_pkg": 8000},
+      {"size_sq_mm": 6, "length_mm": 12, "catalog_no": "EHI-519", "price_inr": 3.30, "std_pkg": 8000},
+      {"size_sq_mm": 10, "length_mm": 12, "catalog_no": "EHI-521", "price_inr": 4.40, "std_pkg": 2000},
+      {"size_sq_mm": 16, "length_mm": 15, "catalog_no": "EHI-525", "price_inr": 5.50, "std_pkg": 1000}
+    ]
+  }
+}

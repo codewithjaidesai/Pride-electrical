@@ -1,0 +1,156 @@
+{
+  "category": "Crimping Tools",
+  "category_id": "crimping-tools",
+  "description": "Hand operated and hydraulic crimping tools for cable lugs and terminals.",
+  "hand_operated": {
+    "description": "Hand operated crimping tools",
+    "products": [
+      {
+        "model": "HP-70",
+        "description": "Hand crimping tool for copper/aluminium lugs 4-70 sq mm",
+        "range_sq_mm": "4-70",
+        "catalog_no": "HP-70",
+        "price_inr": 5500.00,
+        "std_pkg": 1
+      },
+      {
+        "model": "HP-120",
+        "description": "Hand crimping tool for copper/aluminium lugs 10-120 sq mm",
+        "range_sq_mm": "10-120",
+        "catalog_no": "HP-120",
+        "price_inr": 7700.00,
+        "std_pkg": 1
+      },
+      {
+        "model": "HP-240",
+        "description": "Hand crimping tool for copper/aluminium lugs 16-240 sq mm",
+        "range_sq_mm": "16-240",
+        "catalog_no": "HP-240",
+        "price_inr": 13200.00,
+        "std_pkg": 1
+      },
+      {
+        "model": "HT-14",
+        "description": "Hand crimping tool for insulated terminals 0.5-6 sq mm",
+        "range_sq_mm": "0.5-6",
+        "catalog_no": "HT-14",
+        "price_inr": 3300.00,
+        "std_pkg": 1
+      },
+      {
+        "model": "HT-116",
+        "description": "Hand crimping tool for non-insulated terminals 1.5-16 sq mm",
+        "range_sq_mm": "1.5-16",
+        "catalog_no": "HT-116",
+        "price_inr": 3850.00,
+        "std_pkg": 1
+      },
+      {
+        "model": "HT-10",
+        "description": "Hand crimping tool for end sealing ferrules 0.5-10 sq mm",
+        "range_sq_mm": "0.5-10",
+        "catalog_no": "HT-10",
+        "price_inr": 4400.00,
+        "std_pkg": 1
+      },
+      {
+        "model": "HT-16",
+        "description": "Hand crimping tool for end sealing ferrules 0.5-16 sq mm",
+        "range_sq_mm": "0.5-16",
+        "catalog_no": "HT-16",
+        "price_inr": 5500.00,
+        "std_pkg": 1
+      },
+      {
+        "model": "CGT-01",
+        "description": "Cable gland tightening tool",
+        "catalog_no": "CGT-01",
+        "price_inr": 2200.00,
+        "std_pkg": 1
+      }
+    ]
+  },
+  "hydraulic": {
+    "description": "Hydraulic crimping tools",
+    "products": [
+      {
+        "model": "YQK-70",
+        "description": "Hydraulic crimping tool 4-70 sq mm",
+        "range_sq_mm": "4-70",
+        "catalog_no": "YQK-70",
+        "price_inr": 13200.00,
+        "std_pkg": 1
+      },
+      {
+        "model": "YQK-120",
+        "description": "Hydraulic crimping tool 10-120 sq mm",
+        "range_sq_mm": "10-120",
+        "catalog_no": "YQK-120",
+        "price_inr": 16500.00,
+        "std_pkg": 1
+      },
+      {
+        "model": "YQK-240",
+        "description": "Hydraulic crimping tool 16-240 sq mm",
+        "range_sq_mm": "16-240",
+        "catalog_no": "YQK-240",
+        "price_inr": 19800.00,
+        "std_pkg": 1
+      },
+      {
+        "model": "YQK-300",
+        "description": "Hydraulic crimping tool 16-300 sq mm",
+        "range_sq_mm": "16-300",
+        "catalog_no": "YQK-300",
+        "price_inr": 24200.00,
+        "std_pkg": 1
+      },
+      {
+        "model": "YQK-400",
+        "description": "Hydraulic crimping tool 50-400 sq mm",
+        "range_sq_mm": "50-400",
+        "catalog_no": "YQK-400",
+        "price_inr": 33000.00,
+        "std_pkg": 1
+      },
+      {
+        "model": "YQK-630",
+        "description": "Hydraulic crimping tool 150-630 sq mm",
+        "range_sq_mm": "150-630",
+        "catalog_no": "YQK-630",
+        "price_inr": 55000.00,
+        "std_pkg": 1
+      },
+      {
+        "model": "EP-430",
+        "description": "Battery operated hydraulic crimping tool 16-400 sq mm",
+        "range_sq_mm": "16-400",
+        "catalog_no": "EP-430",
+        "price_inr": 132000.00,
+        "std_pkg": 1
+      }
+    ]
+  },
+  "dies": {
+    "description": "Crimping dies for hydraulic tools",
+    "products": [
+      {"size_sq_mm": 4, "catalog_no": "DIE-04", "price_inr": 1100.00, "std_pkg": 1},
+      {"size_sq_mm": 6, "catalog_no": "DIE-06", "price_inr": 1100.00, "std_pkg": 1},
+      {"size_sq_mm": 10, "catalog_no": "DIE-10", "price_inr": 1100.00, "std_pkg": 1},
+      {"size_sq_mm": 16, "catalog_no": "DIE-16", "price_inr": 1100.00, "std_pkg": 1},
+      {"size_sq_mm": 25, "catalog_no": "DIE-25", "price_inr": 1210.00, "std_pkg": 1},
+      {"size_sq_mm": 35, "catalog_no": "DIE-35", "price_inr": 1320.00, "std_pkg": 1},
+      {"size_sq_mm": 50, "catalog_no": "DIE-50", "price_inr": 1430.00, "std_pkg": 1},
+      {"size_sq_mm": 70, "catalog_no": "DIE-70", "price_inr": 1540.00, "std_pkg": 1},
+      {"size_sq_mm": 95, "catalog_no": "DIE-95", "price_inr": 1650.00, "std_pkg": 1},
+      {"size_sq_mm": 120, "catalog_no": "DIE-120", "price_inr": 1870.00, "std_pkg": 1},
+      {"size_sq_mm": 150, "catalog_no": "DIE-150", "price_inr": 2090.00, "std_pkg": 1},
+      {"size_sq_mm": 185, "catalog_no": "DIE-185", "price_inr": 2310.00, "std_pkg": 1},
+      {"size_sq_mm": 240, "catalog_no": "DIE-240", "price_inr": 2750.00, "std_pkg": 1},
+      {"size_sq_mm": 300, "catalog_no": "DIE-300", "price_inr": 3300.00, "std_pkg": 1},
+      {"size_sq_mm": 400, "catalog_no": "DIE-400", "price_inr": 4400.00, "std_pkg": 1},
+      {"size_sq_mm": 500, "catalog_no": "DIE-500", "price_inr": 5500.00, "std_pkg": 1},
+      {"size_sq_mm": 630, "catalog_no": "DIE-630", "price_inr": 6600.00, "std_pkg": 1}
+    ]
+  }
+}

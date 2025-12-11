@@ -1,0 +1,24 @@
+{
+  "category": "Copper Tube Terminals Heavy Duty Long Barrel",
+  "category_id": "copper-tube-terminals-heavy-duty-long-barrel",
+  "description": "Heavy duty copper tube terminals with long barrel design",
+  "material": "Copper",
+  "type": "Heavy Duty Long Barrel",
+  "finish": "Electrolytically tin plated",
+  "series": "CUS",
+  "products": [
+    {"size_sq_mm": 25, "hole_size_mm": 8, "catalog_no": "CUS-282", "price_inr": 30.80, "std_pkg": 800},
+    {"size_sq_mm": 35, "hole_size_mm": 8, "catalog_no": "CUS-283", "price_inr": 64.90, "std_pkg": 800},
+    {"size_sq_mm": 50, "hole_size_mm": 8, "catalog_no": "CUS-284", "price_inr": 107.80, "std_pkg": 400},
+    {"size_sq_mm": 70, "hole_size_mm": 10, "catalog_no": "CUS-285", "price_inr": 166.10, "std_pkg": 200},
+    {"size_sq_mm": 95, "hole_size_mm": 12, "catalog_no": "CUS-286", "price_inr": 260.70, "std_pkg": 200},
+    {"size_sq_mm": 120, "hole_size_mm": 12, "catalog_no": "CUS-287", "price_inr": 370.70, "std_pkg": 100},
+    {"size_sq_mm": 150, "hole_size_mm": 12, "catalog_no": "CUS-288", "price_inr": 456.50, "std_pkg": 100},
+    {"size_sq_mm": 185, "hole_size_mm": 12, "catalog_no": "CUS-289", "price_inr": 661.10, "std_pkg": 100},
+    {"size_sq_mm": 240, "hole_size_mm": 16, "catalog_no": "CUS-290", "price_inr": 927.30, "std_pkg": 60},
+    {"size_sq_mm": 300, "hole_size_mm": 16, "catalog_no": "CUS-291", "price_inr": 1223.20, "std_pkg": 40},
+    {"size_sq_mm": 400, "hole_size_mm": 20, "catalog_no": "CUS-292", "price_inr": 1864.50, "std_pkg": 20},
+    {"size_sq_mm": 500, "hole_size_mm": 21, "catalog_no": "CUS-293", "price_inr": 3309.90, "std_pkg": 20},
+    {"size_sq_mm": 630, "hole_size_mm": 21, "catalog_no": "CUS-294", "price_inr": 4409.90, "std_pkg": 15}
+  ]
+}
