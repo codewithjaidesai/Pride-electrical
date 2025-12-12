@@ -43,7 +43,7 @@ export default function Header() {
               </Link>
             ))}
             <Link
-              href="/contact"
+              href="/quote-generator"
               className="ml-4 bg-accent-500 hover:bg-accent-600 text-white px-4 py-2 rounded-lg text-sm font-semibold transition-colors"
             >
               Get Quote
@@ -86,7 +86,7 @@ export default function Header() {
                 </Link>
               ))}
               <Link
-                href="/contact"
+                href="/quote-generator"
                 className="mt-2 bg-accent-500 hover:bg-accent-600 text-white px-4 py-2 rounded-lg text-base font-semibold transition-colors text-center"
                 onClick={() => setMobileMenuOpen(false)}
               >
